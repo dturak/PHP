@@ -7,6 +7,11 @@
 - MacGDBp
 - DBG
 
+## 🧑‍🏫 UTILITYS AND CLASSES
+- SimplePie
+- HTML Purifier
+- PHP Linq
+
 ## 🛡️ SECURITY
 - PHP-IDS
 - Scavenger
@@ -48,7 +53,7 @@
 - PHP Inspections (EA Extended)
 - Qodana
 
-## 🪠 STYLE TOOLS
+## 🪠 STATIC STYLE ANALYSIS TOOLS
 - PHPCS
 - PhpCsFixer
 - StyleCI
