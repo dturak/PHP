@@ -7,7 +7,7 @@
 - MacGDBp
 - DBG
 
-## 🧑‍🏫 UTILITYS AND CLASSES
+## 🧑‍🏫 UTILITIES AND CLASSES
 - SimplePie
 - HTML Purifier
 - PHP Linq
